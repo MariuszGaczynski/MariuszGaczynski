@@ -4,18 +4,20 @@ Examples of my C# solutions
 This are selected solutions that I've already made. Most of them where made as my "home work" during .NET and C# course that I participated in at may and april 2020.
 Nothing fancy, no rocket science. Just a basics of C# language that I learned and now I am familiar with and have understanding of it. I start from the top with the newest and probably more complex ones (for my coding skills level, of course ;)).
 
-# Project 8. One Player Battleship game
+# [One Player Battleship game](https://github.com/MariuszGaczynski/Zadanie20_Statki/tree/master/Zadanie20_Statki)
 
-# Project 7. Passwords Generator
+# [Passwords Generator](https://github.com/MariuszGaczynski/Zadanie19_GeneratorHasel2/tree/master/Zadanie19_GeneratorHasel2)
 
-# Project 6. Resistors Color Code Calculator
+# [Resistors Color Code Calculator](https://github.com/MariuszGaczynski/Zadanie15_Rezystory/tree/master/Zadanie15_Rezystory)
 
-# Project 5. Weights, Measures, Distances - Converter
+# [Weights, Measures, Distances - Converter](https://github.com/MariuszGaczynski/Zadanie17_WagiMiaryPredkosci/tree/master/Zadanie17_WagiMiaryPredkosci)
 
-# Project 4. When was/is/would be Easter Sunday ???
+# [When was/is/would be Easter Sunday ???](https://github.com/MariuszGaczynski/Zadanie7_DataWielkanocy/tree/master/Zadanie7_DataWielkanocy)
 
-# Project 3. PESEL Number Checker
+# [Roman/ Arabic Numerals Converter](https://github.com/MariuszGaczynski/Zadanie5_LiczbyRzymskie/tree/master/Zadanie5_LiczbyRzymskie)
 
-# Project 2. Integer Numbers Sequence Analyzer
+# [PESEL Number Checker](https://github.com/MariuszGaczynski/Zadanie10_NumerPESEL/tree/master/Zadanie10_NumerPESEL)
 
-# Project 1. Seeking for Prime Numbers
+# [Integer Numbers Sequence Analyzer](https://github.com/MariuszGaczynski/Zadanie12_AnalizaLiczb/tree/master/Zadanie12_AnalizaLiczb)
+
+# [Seeking for Prime Numbers](https://github.com/MariuszGaczynski/Zadanie3_LiczbyPierwsze/tree/master/Zadanie3_LiczbyPierwsze)
