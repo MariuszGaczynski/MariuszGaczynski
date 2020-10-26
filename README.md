@@ -6,6 +6,7 @@ Nothing fancy, no rocket science. Just a basics of C# language that I learned an
 
 ## [One Player Battleship Game](https://github.com/MariuszGaczynski/Zadanie20_Statki/tree/master/Zadanie20_Statki)
 ###### *Application is a classic Battleship game for one player made in Windows Forms. Battleships are deployed automatically on a 10X10 game board. You can point a field and see if you hit the target or missed. There is a hidden button somewhere on the application form with hint about ships position. The goal is to sunk all targets with as few attempts as you can.*
+(https://github.com/MariuszGaczynski/MariuszGaczynski/blob/main/images/statki.jpg)
 
 
 
