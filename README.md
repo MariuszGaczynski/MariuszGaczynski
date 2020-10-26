@@ -5,8 +5,8 @@ This are selected solutions that I've already made. Most of them where made as m
 Nothing fancy, no rocket science. Just a basics of C# language that I learned and now I am familiar with and have understanding of it. I start from the top with the newest and probably more complex ones (for my coding skills level, of course ;)).
 
 # [One Player Battleship Game](https://github.com/MariuszGaczynski/Zadanie20_Statki/tree/master/Zadanie20_Statki)
-Application is a classic Battleship game for one player made in Windows Forms. Battleships are deployed automatically on a 10X10 game board. You can point a field and see if you hit the target or missed. There is a hidden button somewhere on the application form with hint about ships position. The goal is to sunk all targets with as few attempts as you can.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+######Application is a classic Battleship game for one player made in Windows Forms. Battleships are deployed automatically on a 10X10 game board. You can point a field and see if you hit the target or missed. There is a hidden button somewhere on the application form with hint about ships position. The goal is to sunk all targets with as few attempts as you can.
+
 
 # [Passwords Generator](https://github.com/MariuszGaczynski/Zadanie19_GeneratorHasel2/tree/master/Zadanie19_GeneratorHasel2)
 Application made in Windows Forms can be used as a passwords generator. Passwords are made of letters, numbers and special characters. You can choose how long password should be and how complex depending on chosen security level.
